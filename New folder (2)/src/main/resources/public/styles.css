@@ -1,0 +1,12 @@
+body{font-family:system-ui,Segoe UI,Arial,sans-serif;background:#0b1220;color:#e6edf3;margin:0}
+.container{max-width:1000px;margin:0 auto;padding:24px}
+section{background:#101827;border:1px solid #1f2937;border-radius:8px;margin:16px 0;padding:16px}
+h1,h2{margin:0 0 12px 0}
+label{display:block;margin:8px 0}
+input,textarea,button{font:inherit}
+input,textarea{width:100%;padding:8px;border:1px solid #334155;background:#0b1220;color:#e6edf3;border-radius:6px}
+button{background:#2563eb;border:none;color:white;padding:10px 14px;border-radius:6px;cursor:pointer}
+button:hover{background:#1d4ed8}
+#tbl{width:100%;border-collapse:collapse}
+#tbl td,#tbl th{border:1px solid #334155;padding:6px}
+pre{white-space:pre-wrap}
